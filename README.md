@@ -1,6 +1,12 @@
 # PyPublicPoloClient
 Simple library to interact with public Poloniex API
 
+
+## Install
+```
+pip install py_public_polo
+```
+
 ## Examples
 
 

@@ -1,4 +1,4 @@
-from PyPublicPolo import PyPublicPoloClient
+from py_public_polo import PyPublicPoloClient
 
 client = PyPublicPoloClient()
 
