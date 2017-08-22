@@ -4,7 +4,7 @@ setup(
     name='py_public_polo',
     description='Poloniex Public API client',
     long_description='Poloniex Public API client',
-    version='0.5',
+    version='0.6',
     url='https://github.com/dattnguyen82/py_public_polo',
     author='Dat Nguyen',
     keywords='poloniex',
